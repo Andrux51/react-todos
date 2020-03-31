@@ -20,9 +20,3 @@ We'd like to improve our app with these feature requests:
 Please feel free to approach this however you'd like. We prefer candidates
 limit themselves to about an hour and produce their best possible work
 during that time frame.
-
-## Delivery
-
-Please deliver your application (link, source, or both) to:
-
-[work@versal.com](mailto:work@versal.com)
